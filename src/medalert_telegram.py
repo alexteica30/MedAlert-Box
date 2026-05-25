@@ -5,7 +5,7 @@ import requests
 SERIAL_PORT = "COM3"
 BAUD_RATE = 9600
 
-BOT_TOKEN = "8638029516:AAEdWvQ2qyQBQBI_AdSlO2tgfI8WP1TTdJA"
+BOT_TOKEN = ""
 CHAT_ID = "5329618028"
 
 TELEGRAM_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
